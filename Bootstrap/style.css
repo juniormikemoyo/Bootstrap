@@ -1,0 +1,109 @@
+.nav-bar{
+    color: #fff;
+    text-decoration: none; 
+    margin-left: 1rem;
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+.boot{
+    font-size: 1.5rem;
+    padding-right: 500px ; 
+  text-decoration: none;
+  white-space: nowrap;
+
+}
+
+
+.flex-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    gap: 10px; 
+    padding: 100px; 
+    background-color: white; 
+    border-radius: 8px; 
+    
+}
+.flex-box img{
+    width: 320px; 
+    height: auto; 
+    object-fit: cover; 
+    border-radius: 8px; 
+}
+.flex-p{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    gap: 10px; 
+    padding: 100px;  
+    border-radius: 8px; 
+
+}
+.flex-p p{
+    color: white;
+    width: 320px; 
+    height: auto; 
+    object-fit: cover; 
+    border-radius: 8px;
+}
+.foot{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    gap: 120px; 
+    padding: 100px; 
+   text-decoration-color: white;
+    border-radius: 8px; 
+    
+}
+.foot p h4 img{
+    width: 320px; 
+    height: auto; 
+    object-fit: cover; 
+    border-radius: 8px;
+}
+.foot a{
+    padding: 5px;
+}
+  .container {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+}
+
+.line {
+    width: 3cm; 
+    height: 2px; 
+    background-color: white; 
+    margin: 0 10px; 
+}
+
+.star {
+    font-size: 30px; 
+    color: white; 
+}
+  .footie{
+    background-color: rgb(0, 0, 20);
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+  }
+  .container1 {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+}
+
+.line1 {
+    width: 2cm; 
+    height: 2px; 
+    background-color: black; 
+    margin: 0 10px; 
+}
+
+.star1 {
+    font-size: 30px; 
+    color: black; 
+}
